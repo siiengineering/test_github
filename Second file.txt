@@ -2,3 +2,6 @@ Second file
 
 
 Just typing text here.
+
+Adding more and more text to the file
+
