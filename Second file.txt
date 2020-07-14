@@ -6,3 +6,5 @@ Just typing text here.
 Adding more and more text to the file
 
 ok is this going to commit
+
+Checked out the latest version of the branch. Still need to find out how to commit changes to previous versions.
