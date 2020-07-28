@@ -27,8 +27,8 @@ These tasks is used to learn about cmake, make, and also the principle of a cpp 
 	  
 # Task to do (level 3): ROS and ROS Package  
 These tasks are for newcomers with ROS:
-	- Task 1: Create a separated ROS workspace
-	- Task 2: Talker/Listener in Python + launch
-	- Task 3: Talker/Listener in C++ + new launch
-	- Task 4: New ROS msg
-	- To-Do: TBC
+	- Task 1: Create a separated ROS workspace  
+	- Task 2: Talker/Listener in Python + launch  
+	- Task 3: Talker/Listener in C++ + new launch  
+	- Task 4: New ROS msg  
+	- To-Do: TBC  
